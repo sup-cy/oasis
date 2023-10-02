@@ -51,7 +51,7 @@ function App() {
         toastOptions={{
           success:
           {
-            duration: 1000,
+            duration: 1500,
           },
           error:
           {
