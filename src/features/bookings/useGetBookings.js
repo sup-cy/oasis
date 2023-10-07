@@ -22,7 +22,6 @@ export function useGetBookings() {
 
   //Pagination
   const page = Number(searchParams.get("page")) || 1;
-
   const {
     isLoading,
     data: { data: bookings, count } = {},
