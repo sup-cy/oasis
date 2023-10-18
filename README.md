@@ -1,5 +1,7 @@
 # The Wild Oasis
 
+### [`Demo Link`](https://the-wild-oasis-web.netlify.app)
+
 ## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -58,36 +60,38 @@
 8. **Dark Mode:**
    1. The app includes a dark mode option for a different visual appearance and enhanced user experience in low-light conditions.
 
-<br/>
--   #### Log In Page
 
-    <img src="./public/Screenshots/login.png" height="250px"  />
+
+<br/>
+## Screenshots
+
+-   #### Log In Page
+  
+    <img src="./public/Screenshots/logIn.png"  />
 
 -   #### Dark Mode
 
-    <img src="./public/Screenshots/Darkmode.png" height="250px"  />
+    <img src="./public/Screenshots/Darkmode.png"  />
 
 -   #### Dashboard Page
 
-    <img src="./public/Screenshots/dashboard.png" height="250px"  />
+    <img src="./public/Screenshots/dashboard.png"/>
 
 -   #### Bookings Page
 
-    <img src="./public/Screenshots/bookings.png" height="250px"  />
+    <img src="./public/Screenshots/bookings.png"  />
 
 -   #### Cabins Page
 
-    <img src="./public/Screenshots/cabins.png" height="250px"  />
+    <img src="./public/Screenshots/cabins.png"   />
 
 -   #### User Account Page
 
-    <img src="./public/Screenshots/users.png" height="250px"  />
+    <img src="./public/Screenshots/users.png"   />
 
 -   #### Settings Page
 
-    <img src="./public/Screenshots/setting.png" height="250px"  />
+    <img src="./public/Screenshots/setting.png"   />
 
-[`Demo Link`](https://the-wild-oasis-web.netlify.app)
 
-## Screenshots
 
