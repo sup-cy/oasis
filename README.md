@@ -18,40 +18,40 @@
 
 1. **User Authentication and Signup:**
 
-   . Hotel employees can log in to the application to manage.
-   . New users can only be signed up within the application to ensure that only hotel employees can create accounts.
+   1. Hotel employees can log in to the application to manage.
+   2. New users can only be signed up within the application to ensure that only hotel employees can create accounts.
 
 2. **User Profile Management:**
 
-   . Users can update their avatar name and password.
+   1. Users can update their avatar name and password.
  
 
 3. **Cabin Management:**
    
-   . Users can update or delete existing cabins.
-   . Users can create new cabins, including the ability to upload a photo.
+   1. Users can update or delete existing cabins.
+   2. Users can create new cabins, including the ability to upload a photo.
 
 4. **Booking Management:**
 
-   . The table view displays booking information, including arrival and departure dates, booking status, paid amount, cabin details, and guest data.
-   . Booking status can be "unconfirmed," "checked in," or "checked out."
-   . The table view is filterable by booking status.
-   . Additional booking data includes the number of guests, number of nights, guest observations, and whether breakfast was booked and its price.
+   1. The table view displays booking information, including arrival and departure dates, booking status, paid amount, cabin details, and guest data.
+   2. Booking status can be "unconfirmed," "checked in," or "checked out."
+   3. The table view is filterable by booking status.
+   4. Additional booking data includes the number of guests, number of nights, guest observations, and whether breakfast was booked and its price.
 
 5. **Booking Operations:**
 
-   . Users can delete, check in, or check out a booking as the guest arrives.
-   . On check-in, users can accept payment outside the app and then confirm the payment within the app.
-   . Guests can add breakfast for the entire stay during check-in if they haven't already.
+   1. Users can delete, check in, or check out a booking as the guest arrives.
+   2. On check-in, users can accept payment outside the app and then confirm the payment within the app.
+   3. Guests can add breakfast for the entire stay during check-in if they haven't already.
 
 
 6. **Dashboard:**
 
-   . The initial app screen serves as a dashboard displaying important information for the last 7, 30, or 90 days.
-   . It shows a list of guests checking in and out on the current day, and users can perform tasks related to these activities from the dashboard.
-   . The dashboard provides statistics on recent bookings, sales, check-ins, and occupancy rates.
-   . It includes a chart showing all daily hotel sales, distinguishing between "total" sales and "extras" sales (only breakfast at present).
-   . There's also a chart displaying statistics on stay durations, an important metric for the hotel.
+   1. The initial app screen serves as a dashboard displaying important information for the last 7, 30, or 90 days.
+   2. It shows a list of guests checking in and out on the current day, and users can perform tasks related to these activities from the dashboard.
+   3. The dashboard provides statistics on recent bookings, sales, check-ins, and occupancy rates.
+   4. It includes a chart showing all daily hotel sales, distinguishing between "total" sales and "extras" sales (only breakfast at present).
+   5. There's also a chart displaying statistics on stay durations, an important metric for the hotel.
 
 7. **Application-wide Settings:**
 
