@@ -59,6 +59,33 @@
    1. The app includes a dark mode option for a different visual appearance and enhanced user experience in low-light conditions.
 
 <br/>
+-   #### Log In Page
+
+    <img src="./public/Screenshots/login.png" height="250px"  />
+
+-   #### Dark Mode
+
+    <img src="./public/Screenshots/Darkmode.png" height="250px"  />
+
+-   #### Dashboard Page
+
+    <img src="./public/Screenshots/dashboard.png" height="250px"  />
+
+-   #### Bookings Page
+
+    <img src="./public/Screenshots/bookings.png" height="250px"  />
+
+-   #### Cabins Page
+
+    <img src="./public/Screenshots/cabins.png" height="250px"  />
+
+-   #### User Account Page
+
+    <img src="./public/Screenshots/users.png" height="250px"  />
+
+-   #### Settings Page
+
+    <img src="./public/Screenshots/setting.png" height="250px"  />
 
 [`Demo Link`](https://the-wild-oasis-web.netlify.app)
 
